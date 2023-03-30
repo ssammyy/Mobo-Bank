@@ -1,13 +1,13 @@
-package com.mobo.mobobank;
+package com.mobobankapi;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class MobobankApplication {
+public class MoboBankApiApplication {
 
     public static void main(String[] args) {
-        SpringApplication.run(MobobankApplication.class, args);
+        SpringApplication.run(MoboBankApiApplication.class, args);
     }
 
 }

@@ -1,4 +1,4 @@
-package com.mobo.mobobank.Package;
+package com.mobobankapi.Controller;
 
 import lombok.AllArgsConstructor;
 import lombok.Data;
